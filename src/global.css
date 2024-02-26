@@ -1,5 +1,7 @@
-@layer base {
-  body {
-    @apply bg-[#383838] text-white;
+@tailwind base {
+  @layer base {
+    body {
+      @aply bg-black;
+    }
   }
 }

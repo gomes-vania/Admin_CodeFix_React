@@ -1,4 +1,4 @@
-import '../../src/global.css';
+import '../src/global.css';
 
 const Home = () => {
   return (
